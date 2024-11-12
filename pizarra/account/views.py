@@ -34,7 +34,7 @@ def signup(request):
 
             return redirect('/login/')
         else:
-            print('Somethign went wrong')
+            print('Something went wrong')
     else:
         print('Just show the form!')
 
