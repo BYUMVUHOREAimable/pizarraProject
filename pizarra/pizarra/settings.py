@@ -92,7 +92,7 @@ DATABASES = {
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',  # or 'django.db.backends.postgresql' if using PostgreSQL
-        'NAME': 'pizarradb',
+        'NAME': 'research_management_system',
         'USER': 'root',
         'PASSWORD': '3Nyamiyaga100%',
         'HOST': 'localhost',  # Use 'localhost' if using MySQL or PostgreSQL on your machine
