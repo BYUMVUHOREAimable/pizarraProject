@@ -31,7 +31,7 @@ Setup
 Follow these steps to set up the project locally:
 
 1. Clone the repository
-git clone https://github.com/BYUMVUHOREAimable/pizarraProject.git
+git clone https://github.com/BYUMVUHOREAimable/research-management-system.git
 cd research-management-system
 2. Set up a virtual environment
 Create and activate a virtual environment:
